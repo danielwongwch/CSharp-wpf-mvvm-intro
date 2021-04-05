@@ -1,0 +1,15 @@
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\bin\Debug\wpf_mvvm_intro.exe.config
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\bin\Debug\wpf_mvvm_intro.exe
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\bin\Debug\wpf_mvvm_intro.pdb
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\App.g.cs
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro_MarkupCompile.cache
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro_MarkupCompile.lref
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro.g.resources
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro.Properties.Resources.resources
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro.csproj.GenerateResource.cache
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro.exe
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\wpf_mvvm_intro.pdb
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\Views\MainWindow.g.cs
+C:\Users\paulw\source\repos\wpf_mvvm_intro\wpf_mvvm_intro\obj\Debug\Views\MainWindow.baml
